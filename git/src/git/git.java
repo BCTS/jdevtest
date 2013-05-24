@@ -14,4 +14,6 @@ public class git {
     public void Hello(){
         System.out.println("hello world");
     }
+    
+    public void Bye(){}
 }
